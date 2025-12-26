@@ -22,12 +22,3 @@
 | **Arquitectura**      | ![Microservicios](https://img.shields.io/badge/Microservicios-000000?style=flat-square&logo=architect&logoColor=white) ![DDD](https://img.shields.io/badge/DDD-000000?style=flat-square&logo=domain-driven-design&logoColor=white) ![CQRS](https://img.shields.io/badge/CQRS-000000?style=flat-square&logo=command-query-responsibility-segregation&logoColor=white) ![Arquitectura de Eventos](https://img.shields.io/badge/Event--Driven_Architecture-000000?style=flat-square&logo=eventbrite&logoColor=white) |
 | **Herramientas**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) |
 | **Metodologías Ágiles** | ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=flat-square&logo=scrum&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-0088CC?style=flat-square&logo=kanban&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-61DAFB?style=flat-square&logo=agile&logoColor=white) |
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Pedro Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElAngeluz&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElAngeluz&layout=compact&theme=dark)
-
