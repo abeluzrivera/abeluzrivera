@@ -6,7 +6,7 @@
 
 ## 🧠 Sobre mí
 
-¡Hola! Soy Pedro Abel, un apasionado de la tecnología con más de 12 años de experiencia en el desarrollo de soluciones innovadoras para el sector financiero y tecnológico. Me encanta diseñar arquitecturas escalables y eficientes, y siempre estoy en busca de nuevos desafíos que me permitan crecer profesionalmente.
+¡Hola! Soy Pedro Abel, un apasionado de la tecnología con más de 13 años de experiencia en el desarrollo de soluciones innovadoras para el sector financiero y tecnológico. Me encanta diseñar arquitecturas escalables y eficientes, y siempre estoy en busca de nuevos desafíos que me permitan crecer profesionalmente.
 
 ---
 
